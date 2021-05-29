@@ -1,3 +1,5 @@
+**WARNING: I worked on this process back when I had no idea what I was doing. I would not recommend following this process. I'm only leaving it up for personal historical purposes. I have no clue why I included the MagicMirror source files in my repo since my instructions say to go download them anyways, but many GitHub security warning emails later, they have been removed.**
+
 # MagicMirror-Win10V2
 1. Install node.js from the following link:
 	https://nodejs.org/en/download/
